@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286844479418",
+    "project_id": "image-upload2-dbafc",
+    "storage_bucket": "image-upload2-dbafc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286844479418:android:df9f1e53e094117e419f83",
+        "android_client_info": {
+          "package_name": "com.brg.card_scan_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286844479418-5a54lgdduuqlbkvc90duf6ujt8q7pjet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM4OsDZFyoC8z5aF0rMaGEokCv6BeGn8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286844479418-5a54lgdduuqlbkvc90duf6ujt8q7pjet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

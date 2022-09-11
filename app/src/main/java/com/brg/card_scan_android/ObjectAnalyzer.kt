@@ -18,7 +18,7 @@ class ObjectAnalyzer(
     val onChange: (widthFactor: Int, heightFactor: Int) -> Unit
 ) : ImageAnalysis.Analyzer {
     private val options = ObjectDetectorOptions.Builder()
-        .setDetectorMode(ObjectDetectorOptions.STREAM_MODE)
+        .setDetectorMode(ObjectDetectorOptions.SINGLE_IMAGE_MODE)
         .build()
     private val objectDetector = ObjectDetection.getClient(options)
 
